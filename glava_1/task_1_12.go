@@ -1,11 +1,11 @@
-package main
+package nameTwo1
 
 import "fmt"
 
-var name string
+var nameTwo string
 
-func main() {
+func nameTwo1() {
 	fmt.Println("Введите имя")
-	fmt.Scan(&name)
-	fmt.Println("Привет, " + name + "!")
+	fmt.Scan(&nameTwo)
+	fmt.Println("Привет, " + nameTwo + "!")
 }
