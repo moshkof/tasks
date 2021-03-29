@@ -1,4 +1,4 @@
-package nameTwo1
+package main
 
 import "fmt"
 
