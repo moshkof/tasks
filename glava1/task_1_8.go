@@ -2,8 +2,6 @@ package glava1
 
 import "fmt"
 
-
-
 func Chislo() {
 	var x int
 	x = 0
