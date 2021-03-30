@@ -2,9 +2,10 @@ package glava1
 
 import "fmt"
 
-var x int
+
 
 func Chislo() {
+	var x int
 	x = 0
 	fmt.Println("Введите число")
 	fmt.Scan(&x)
