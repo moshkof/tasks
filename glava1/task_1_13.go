@@ -2,7 +2,7 @@ package glava1
 
 import "fmt"
 
-func summa() {
+func Summa() {
 	var x int
 	// var y int
 	// var z int
