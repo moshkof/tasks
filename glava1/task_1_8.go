@@ -2,7 +2,7 @@ package glava1
 
 import "fmt"
 
-func Chislo() {
+func Task_1_8() {
 	var x int
 	x = 0
 	fmt.Println("Введите число")
