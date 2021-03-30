@@ -1,4 +1,4 @@
-package main
+package glava_1
 
 import "fmt"
 
