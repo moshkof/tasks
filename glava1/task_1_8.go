@@ -4,7 +4,7 @@ import "fmt"
 
 var x int
 
-func chislo() {
+func Chislo() {
 	x = 0
 	fmt.Println("Введите число")
 	fmt.Scan(&x)
