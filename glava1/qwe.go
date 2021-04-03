@@ -1,4 +1,4 @@
-package main
+package glava1
 
 import "fmt"
 
@@ -9,6 +9,6 @@ func Hello(name string) string {
 	return message
 }
 
-// func Qwe() {
+// func main() {
 // 	fmt.Println(Hello("Sergey"))
 // }
