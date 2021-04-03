@@ -5,8 +5,10 @@ import (
 
 	"github.com/moshkof/tasks.git/glava1"
 	"rsc.io/quote"
+	"qwe"
 )
 
+// Solving problems from the collection of 1400 programming problems
 func main() {
 	var phrase string = "GO рулит!"
 	fmt.Println(phrase)
@@ -15,4 +17,5 @@ func main() {
 	glava1.Task_1_13()
 	glava1.Task_1_8()
 	glava1.Task_1_10()
+	qwe.Hello("Sergey")
 }
