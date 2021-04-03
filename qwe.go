@@ -9,6 +9,6 @@ func Hello(name string) string {
 	return message
 }
 
-func Qwe() {
-	fmt.Println(Hello("Sergey"))
-}
+// func Qwe() {
+// 	fmt.Println(Hello("Sergey"))
+// }
